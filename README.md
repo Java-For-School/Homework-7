@@ -40,3 +40,10 @@ Value | 45 | 5 | 135 | 5 | 5 | 5 |
 OUTPUT | -- | -- | YES | -- | -- | -- | 
 
 The program receives an input of there numbers, determines whether their last digits are equal and outputs YES or NO according to the validity of the equality.
+### Assignment 4:
+
+![](https://i.imgur.com/wFVa8jp.png)
+| Variable | num1 | num2 | num3 | d1 | d2 | d3 |  
+| --- | --- | --- | --- |--- |--- |--- |
+Value | 45 | 5 | 135 | 5 | 5 | 5 | 
+OUTPUT | -- | -- | YES | -- | -- | -- | 
