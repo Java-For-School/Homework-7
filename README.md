@@ -32,3 +32,5 @@ class Main {
     }
 }
 ```
+### Assignment 3:
+[](https://i.imgur.com/AKQisxG.png)
