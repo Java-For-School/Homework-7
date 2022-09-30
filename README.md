@@ -34,6 +34,6 @@ class Main {
 ```
 ### Assignment 3:
 ![](https://i.imgur.com/AKQisxG.png)
-Variable | num1 | num2 | num3 | d1 | d2 | d3 |  
---- | --- | --- | --- |--- |--- |--- |--- |
+| Variable | num1 | num2 | num3 | d1 | d2 | d3 |  
+| --- | --- | --- | --- |--- |--- |--- |
 Value | 301 | 283 | 290 | 286 | 289 | 285 | 
