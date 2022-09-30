@@ -43,7 +43,16 @@ The program receives an input of there numbers, determines whether their last di
 ### Assignment 4:
 
 ![](https://i.imgur.com/wFVa8jp.png)
+###### A:
 | Variable | num1 | num2 | num3 |  
 | --- | --- | --- | --- |
 Value | 8 | 12 | 42 | 
 OUTPUT | ALL-E | ALL-E | ALL-E |
+
+###### B:
+| Variable | num1 | num2 | num3 |  
+| --- | --- | --- | --- |
+Value | 5 | 63 | 81q | 
+OUTPUT | ALL-O | ALL-O | ALL-O |
+
+The program determines whether there numbers received as user input have their last digit divisible by two, and outputs ALL-E, ALL-O and Neither according to the results.
