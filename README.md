@@ -33,4 +33,4 @@ class Main {
 }
 ```
 ### Assignment 3:
-[](https://i.imgur.com/AKQisxG.png)
+![](https://i.imgur.com/AKQisxG.png)
