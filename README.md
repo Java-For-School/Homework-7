@@ -45,5 +45,5 @@ The program receives an input of there numbers, determines whether their last di
 ![](https://i.imgur.com/wFVa8jp.png)
 | Variable | num1 | num2 | num3 |  
 | --- | --- | --- | --- |
-Value | 45 | 5 | 135 | 5 | 5 | 5 | 
-OUTPUT | -- | -- | YES |
+Value | 8 | 12 | 42 | 
+OUTPUT | ALL E | ALL E | ALL E |
