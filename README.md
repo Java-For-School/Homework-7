@@ -38,3 +38,5 @@ class Main {
 | --- | --- | --- | --- |--- |--- |--- |
 Value | 45 | 5 | 135 | 5 | 5 | 5 | 
 OUTPUT | -- | -- | YES | -- | -- | -- | 
+
+The program receives an input of there numbers, determines whether their last digits are equal and outputs YES or NO according to the validity of the equality.
