@@ -43,7 +43,7 @@ The program receives an input of there numbers, determines whether their last di
 ### Assignment 4:
 
 ![](https://i.imgur.com/wFVa8jp.png)
-| Variable | num1 | num2 | num3 | d1 | d2 | d3 |  
-| --- | --- | --- | --- |--- |--- |--- |
+| Variable | num1 | num2 | num3 |  
+| --- | --- | --- | --- |
 Value | 45 | 5 | 135 | 5 | 5 | 5 | 
-OUTPUT | -- | -- | YES | -- | -- | -- | 
+OUTPUT | -- | -- | YES |
