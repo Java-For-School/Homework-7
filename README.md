@@ -46,4 +46,4 @@ The program receives an input of there numbers, determines whether their last di
 | Variable | num1 | num2 | num3 |  
 | --- | --- | --- | --- |
 Value | 8 | 12 | 42 | 
-OUTPUT | ALL E | ALL E | ALL E |
+OUTPUT | ALL-E | ALL-E | ALL-E |
